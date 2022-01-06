@@ -54,3 +54,7 @@ The Maizzle framework is open-sourced software licensed under the [MIT license](
 [github-ci-shield]: https://img.shields.io/github/workflow/status/maizzle/cli/Node.js%20CI?style=flat-square
 [license]: ./LICENSE
 [license-shield]: https://img.shields.io/npm/l/@maizzle/framework.svg?style=flat-square&color=0e9f6e
+
+
+test from
+nrz
