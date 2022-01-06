@@ -56,5 +56,5 @@ The Maizzle framework is open-sourced software licensed under the [MIT license](
 [license-shield]: https://img.shields.io/npm/l/@maizzle/framework.svg?style=flat-square&color=0e9f6e
 
 
-test from
-nrz
+test from nrz
+test from local
